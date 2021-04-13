@@ -1,0 +1,52 @@
+{
+  "name": "react-blog",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "dotenv": "^8.2.0",
+    "firebase": "^7.19.1",
+    "is-promise": "^4.0.0",
+    "moment": "^2.29.1",
+    "qrcode.react": "^1.0.1",
+    "react": "^16.13.1",
+    "react-calendar": "^3.3.1",
+    "react-date-picker": "^8.0.7",
+    "react-datepicker": "^3.6.0",
+    "react-dom": "^16.13.1",
+    "react-google-login": "^5.1.21",
+    "react-kakao-login": "^1.2.2",
+    "react-qr-svg": "^2.3.0",
+    "react-render-html": "^0.6.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "react-to-pdf": "^0.0.13",
+    "react-to-print": "^2.12.3",
+    "styled-components": "^5.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
